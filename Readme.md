@@ -1,6 +1,6 @@
 #Project structure 
 
-art-culture-insight-app/
+art-culture-insights-app/
 │
 ├── .gitignore
 ├── README.md
