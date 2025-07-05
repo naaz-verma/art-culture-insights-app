@@ -8,7 +8,7 @@ art-culture-insights-app/
 ├── streamlit_app.py
 │
 ├── data/
-│   └── raw/              
+│   └── raw/ (has 4 .csv files 1. fee-from-tourism2019-21.csv, Foreign-exchange-earning2014-20.csv,internation-tourism2001-21.csv, state-wise-finance-artcluture-2019-24.csv)             
 │   └── processed/        
 │
 ├── snowflake/
